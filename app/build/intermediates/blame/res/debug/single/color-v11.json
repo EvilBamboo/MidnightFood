@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/bamboo/AndroidStudioProjects/MidnightFood/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/bamboo/.android/build-cache/9343d94e2e90e0b86de1c20265bebcb76cab388e/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/bamboo/AndroidStudioProjects/MidnightFood/C:\\Users\\acer\\AndroidStudioProjects\\MidnightFood\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/bamboo/AndroidStudioProjects/MidnightFood/C:\\Users\\acer\\.android\\build-cache\\a5416d237db1e1b362b43a72cc93e2b94a49ae7d\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/bamboo/AndroidStudioProjects/MidnightFood/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/bamboo/.android/build-cache/9343d94e2e90e0b86de1c20265bebcb76cab388e/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/bamboo/AndroidStudioProjects/MidnightFood/C:\\Users\\acer\\AndroidStudioProjects\\MidnightFood\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/bamboo/AndroidStudioProjects/MidnightFood/C:\\Users\\acer\\.android\\build-cache\\a5416d237db1e1b362b43a72cc93e2b94a49ae7d\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    }
+]
